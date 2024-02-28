@@ -1,0 +1,1 @@
+7. Comprimeix fitxers amb una extensió específica.

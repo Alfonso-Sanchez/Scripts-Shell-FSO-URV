@@ -1,0 +1,1 @@
+6. Compte els fitxers amb una extensió específica en un directori.

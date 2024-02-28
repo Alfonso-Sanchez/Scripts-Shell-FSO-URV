@@ -1,0 +1,1 @@
+4. Escriu un script que vagi demanant a l'usuari un nombre i determini si és parell o senar. Ha de parar de demanar números quan se li posi un 0.
