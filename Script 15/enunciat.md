@@ -1,0 +1,1 @@
+15. Enumera totes les ciutats de les que tenim dades de temperatura
