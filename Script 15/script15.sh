@@ -3,5 +3,5 @@ if [ -z $1 ] || [ ! -d $1 ]; then
     exit 1
 fi
 
-find $1 -type f -name "* *" 2>/dev/null | cut -d '/' -f3 | sort -u
+find $1 -type f 2>/dev/null | cut -d '/' -f3 | sort -u
 exit 0
