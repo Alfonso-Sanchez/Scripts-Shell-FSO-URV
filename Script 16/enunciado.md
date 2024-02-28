@@ -1,0 +1,1 @@
+16. En totes les ciutats trobades anteriorment, compta de quants anys tenim dades.
